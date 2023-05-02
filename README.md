@@ -1,6 +1,6 @@
 ## Hey! I'm Hemanth Rao. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub raohemanth](https://img.shields.io/github/followers/raohemanth?label=follow&style=social)](https://github.com/raohemanth)
+[![GitHub Hemanth Rao](https://img.shields.io/github/followers/raohemanth?label=follow&style=social)](https://github.com/raohemanth)
 [![Linkedin: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthraokn/)](https://www.linkedin.com/in/hemanthraokn/)
   
 I’m a final year master's student with with 4 years of experience as a Full-Stack Developer in designing and developing highly scalable, resilient, fault-tolerant systems on a variety of platforms and technologies .
