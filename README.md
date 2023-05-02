@@ -2,7 +2,7 @@
 
 [![GitHub Hemanth Rao](https://img.shields.io/github/followers/raohemanth?label=follow&style=social)](https://github.com/raohemanth)
 [![Linkedin: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthraokn/)](https://www.linkedin.com/in/hemanthraokn/)
-[![Website: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-green?style=social&logoColor=Green)](https://raohemanth.github.io/)
+[![Website: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-green?style=plastic&logoColor=Green)](https://raohemanth.github.io/)
   
 I’m a final year master's student with with 4 years of experience as a Full-Stack Developer in designing and developing highly scalable, resilient, fault-tolerant systems on a variety of platforms and technologies .
 
