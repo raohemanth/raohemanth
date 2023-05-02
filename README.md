@@ -1,7 +1,7 @@
 ## Hey! I'm Hemanth Rao. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub raohemanth](https://img.shields.io/github/followers/raohemanth?label=follow&style=social)](https://github.com/raohemanth)
-[![Linkedin: Hemanth Rao](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthraokn/)](https://www.linkedin.com/in/hemanthraokn/)
+[![Linkedin: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthraokn/)](https://www.linkedin.com/in/hemanthraokn/)
   
 I develop software, build technical communities, create content and love meeting new people!
 
