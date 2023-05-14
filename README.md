@@ -6,7 +6,7 @@
   
 I’m a final year master's student with with 4 years of experience as a Full-Stack Developer in designing and developing highly scalable, resilient, fault-tolerant systems on a variety of platforms and technologies .
 
-Actively looking for full time Full-Stack Developer / Software Developer or Backend Developer opportunities starting May 2024
+Actively looking for full time Full-Stack Developer / Software Developer or Backend Developer opportunities starting June 2024
 
 [![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raohemanth&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/raohemanth/github-readme-stats)
 
