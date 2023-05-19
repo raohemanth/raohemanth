@@ -2,9 +2,8 @@
 
 [![GitHub Hemanth Rao](https://img.shields.io/github/followers/raohemanth?label=follow&style=plastic)](https://github.com/raohemanth)
 [![Linkedin: Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthraokn/)](https://www.linkedin.com/in/hemanthraokn/)
-[![Website: Website - Hemanth Rao](https://img.shields.io/badge/-Hemanth%20Rao-green?style=plastic&logoColor=Green)](https://raohemanth.github.io/)
   
-I’m a final year master's student with with 4 years of experience as a Full-Stack Developer in designing and developing highly scalable, resilient, fault-tolerant systems on a variety of platforms and technologies .
+I’m a final year master's student with with 4 years of experience as a Full-Stack Developer in designing and developing highly scalable, resilient, fault-tolerant systems on a variety of platforms and technologies. You can know more about me on my personal website - https://raohemanth.github.io/ 
 
 Actively looking for full time Full-Stack Developer / Software Developer or Backend Developer opportunities starting June 2024
 
